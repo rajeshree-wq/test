@@ -67,6 +67,7 @@ class Test_Login:
             # self.lp.clickLogOut()
 
         self.log.info("Login is successfull.")
+        self.log.info("Login is done")
 
             # act_title=self.driver.title
             # exp_title="DashDashboard / nopCommerce administration"
