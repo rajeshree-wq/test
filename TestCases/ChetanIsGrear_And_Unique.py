@@ -1,0 +1,1 @@
+print("hum tum pe marte hai")
